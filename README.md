@@ -24,7 +24,7 @@ This project provides a web application for extracting text from images using OC
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/image-text-extractor.git
+    git clone https://github.com/Sahil-git1/Text-Extractor.git
     ```
 
 2. **Navigate to the project directory:**
